@@ -1,4 +1,6 @@
-## Selamat datang di Repository Website Statis TemanMakan | Created by Dias and Kukuh
+## Selamat datang di Repository Website Statis TemanMakan |
+
+Created by Dias Lanjar Pamundi dan Kukuh Caezaocta Prayuda
 
 TemanMakan adalah sebuah gagasan restoran yang menonjolkan menu-menu tradisional dari berbagai daerah di Indonesia.
 
