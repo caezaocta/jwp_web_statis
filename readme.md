@@ -1,4 +1,4 @@
-## Selamat datang di Repository Website Statis TemanMakan |
+## Selamat datang di Repository Website Statis TemanMakan
 
 Created by Dias Lanjar Pamundi dan Kukuh Caezaocta Prayuda
 
